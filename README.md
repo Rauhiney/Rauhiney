@@ -45,7 +45,7 @@ An AI-powered desktop assistant built using Python, FastAPI, SQLite and Ollama.
 Analyzes resumes and matches them with job descriptions using AI.
 
 ### 📸 MomentShare
-QR-based wedding photo & video sharing platform.
+QR-based photo & video sharing platform.
 
 ---
 
