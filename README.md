@@ -12,7 +12,7 @@ Currently building practical AI & Web Development projects.
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd Year Computer Science Engineering Student
+- 🎓 4th Year Computer Science Engineering Student
 - 🐍 Python Developer
 - 🤖 Learning AI & Machine Learning
 - 🌐 Building Full Stack Projects
