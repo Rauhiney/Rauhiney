@@ -1,70 +1,68 @@
 <div align="center">
 
-# Hi 👋 I'm Rauhiney Kashyap
+# Rauhiney Kashyap
 
-### 🚀 CSE Student | Python Developer | AI/ML Enthusiast
+### Building the Future with AI
 
-Currently building practical AI & Web Development projects.
+Python • Artificial Intelligence • Machine Learning • Backend
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 4th Year Computer Science Engineering Student
-- 🐍 Python Developer
-- 🤖 Learning AI & Machine Learning
-- 🌐 Building Full Stack Projects
-- 📚 Always learning new technologies
-- 💼 Looking for Internship Opportunities
+I'm a Fourth-Year Computer Science Engineering student passionate about building intelligent software.
+
+I enjoy developing AI-powered applications, scalable backend systems, and real-world products that solve meaningful problems.
+
+Currently focused on Artificial Intelligence, Machine Learning, Python, and modern backend development.
+
+---
+
+## ⚡ Currently Building
+
+- 🤖 DENZ AI Assistant
+- 📄 AI Resume Analyzer
+- 📸 MomentShare
+- 💬 AI Portfolio Assistant
 
 ---
 
 ## 🛠 Tech Stack
 
-- Python
-- HTML
-- CSS
-- JavaScript
-- Flask
-- FastAPI
-- SQLite
-- Git
-- GitHub
-- VS Code
+**Languages**
 
----
+Python • SQL • JavaScript • HTML • CSS
 
-## 🚀 Current Projects
+**AI & Machine Learning**
 
-### 🤖 DENZ AI Assistant
-An AI-powered desktop assistant built using Python, FastAPI, SQLite and Ollama.
+NumPy • Pandas • Scikit-learn • Ollama
 
-### 📄 AI Resume Analyzer (In Progress)
-Analyzes resumes and matches them with job descriptions using AI.
+**Backend**
 
-### 📸 MomentShare
-QR-based photo & video sharing platform.
+FastAPI • Flask • REST APIs • SQLite
 
----
+**Tools**
 
-## 📈 Currently Learning
-
-- Machine Learning
-- Data Structures & Algorithms
-- Advanced Python
-- Backend Development
+Git • GitHub • VS Code
 
 ---
 
 ## 🎯 2026 Goals
 
-- Build 10+ real-world projects
-- Get an AI/Software Internship
+- Build production-ready AI applications
+- Master Machine Learning
+- Learn Deep Learning
 - Contribute to Open Source
-- Improve Problem Solving
+- Secure an AI/ML Internship
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📫 Connect
+
+LinkedIn:
+https://www.linkedin.com/in/rauhiney-kashyap-b448b3350
+
+Email:
+kashyaprauhiney@gmail.com
