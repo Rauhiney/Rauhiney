@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:2563EB,100:7C3AED&text=Rauhiney%20Kashyap&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Building%20the%20Future%20with%20AI&descSize=20&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Applications;Python+%7C+Backend+%7C+Generative+AI;Turning+Ideas+into+Real-World+Products" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Applications;Python+%7C+Backend+%7C+Generative+AI;Turning+Ideas+into+Real-World+Products" alt="Typing introduction"/>
 
 <br>
 
@@ -20,44 +20,27 @@
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-```python
-class RauhineyKashyap:
-    education = "Fourth-Year Computer Science Engineering Student"
+I'm a **Fourth-Year Computer Science Engineering student** focused on building practical software through **Artificial Intelligence, Machine Learning, Python, and backend development**.
 
-    focus = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Generative AI",
-        "Python Development",
-        "Backend Systems"
-    ]
+I enjoy turning ideas into functional products and learning through real-world projects. My current goal is to strengthen my AI/ML fundamentals, develop reliable backend systems, and build applications that solve meaningful problems.
 
-    currently_building = [
-        "AI Resume Analyzer",
-        "DENZ AI Assistant",
-        "MomentShare",
-        "AI Portfolio Assistant"
-    ]
-
-    mission = "Build intelligent software that solves real-world problems."
-    mindset = "Learn. Build. Improve. Repeat."
-```
-
-I enjoy transforming ideas into practical software products through **Artificial Intelligence, Machine Learning, Python, and modern backend technologies**.
-
-My current focus is on strengthening my AI/ML fundamentals and building projects that demonstrate real-world problem-solving skills.
+- 🎓 Currently in the seventh semester of B.Tech Computer Science Engineering
+- 🤖 Focused on Artificial Intelligence and Machine Learning
+- 🐍 Building applications and backend systems with Python
+- 🧠 Exploring Generative AI and local language models
+- 🚀 Learning by developing complete, practical projects
 
 ---
 
 ## ⚡ Current Focus
 
-- Building practical AI and machine-learning applications
-- Strengthening Python and backend development skills
-- Learning model development, evaluation, and deployment
-- Exploring Generative AI and local language models
-- Creating clean, documented, and production-oriented projects
+- Developing practical AI and machine-learning applications
+- Strengthening Python, SQL, and backend development skills
+- Learning data preparation, model training, and evaluation
+- Exploring Generative AI and LLM-powered applications
+- Building clean and professionally documented projects
 
 ---
 
@@ -73,7 +56,7 @@ My current focus is on strengthening my AI/ML fundamentals and building projects
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite" alt="Backend and database technologies"/>
 
 <br><br>
 
@@ -103,9 +86,11 @@ My current focus is on strengthening my AI/ML fundamentals and building projects
 
 ### 📄 AI Resume Analyzer
 
-An intelligent resume-analysis platform designed to provide ATS insights, skill-gap detection, job matching, and personalised improvement recommendations.
+An intelligent platform designed to analyse resumes, calculate ATS compatibility, identify skill gaps, and generate personalised improvement recommendations.
 
-**Focus:** AI, NLP, Python, FastAPI
+**Technologies:** Python, NLP, FastAPI, Machine Learning
+
+**Status:** In development
 
 </td>
 
@@ -113,9 +98,11 @@ An intelligent resume-analysis platform designed to provide ATS insights, skill-
 
 ### 🤖 DENZ AI Assistant
 
-A local AI-powered assistant built with Python, FastAPI, SQLite, and Ollama, featuring intelligent conversations and backend integrations.
+A local AI-powered assistant featuring intelligent conversations, voice interaction, useful information, reminders, and backend integrations.
 
-**Focus:** Generative AI, Local LLMs, APIs
+**Technologies:** Python, FastAPI, SQLite, Ollama
+
+**Status:** In development
 
 </td>
 </tr>
@@ -125,9 +112,11 @@ A local AI-powered assistant built with Python, FastAPI, SQLite, and Ollama, fea
 
 ### 📸 MomentShare
 
-A cloud-based photo and video sharing platform with QR-powered access, secure uploads, organised storage, and seamless media management.
+A cloud-based photo and video sharing platform offering QR-powered access, high-quality uploads, organised storage, media previews, and convenient downloads.
 
-**Focus:** Cloud Storage, APIs, Web Development
+**Technologies:** JavaScript, Node.js, Google Drive API
+
+**Status:** Functional prototype
 
 </td>
 
@@ -135,9 +124,11 @@ A cloud-based photo and video sharing platform with QR-powered access, secure up
 
 ### 💬 AI Portfolio Assistant
 
-An intelligent conversational assistant designed to make portfolio websites more interactive and help visitors explore projects and skills.
+An intelligent conversational assistant that helps visitors explore portfolio projects, technical skills, and professional information interactively.
 
-**Focus:** AI Chatbot, Python, Flask
+**Technologies:** Python, Flask, Ollama, JavaScript
+
+**Status:** Functional prototype
 
 </td>
 </tr>
@@ -147,70 +138,31 @@ An intelligent conversational assistant designed to make portfolio websites more
 
 ## 📚 Currently Learning
 
-```text
-Machine Learning Fundamentals
-Data Cleaning and Exploratory Data Analysis
-Model Training and Evaluation
-Deep Learning Fundamentals
-Generative AI and Large Language Models
-AI Agents and Retrieval-Augmented Generation
-Model Deployment with FastAPI
-```
+- Machine Learning fundamentals
+- Data cleaning and exploratory data analysis
+- Model training and performance evaluation
+- Deep Learning fundamentals
+- Generative AI and Large Language Models
+- Retrieval-Augmented Generation
+- AI agents and intelligent automation
+- Model deployment using FastAPI
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Rauhiney&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
-
-<img height="175" src="https://streak-stats.demolab.com?user=Rauhiney&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rauhiney&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rauhiney&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph"/>
-
-</div>
-
----
-
-## 🎯 2026 Roadmap
+## 🎯 2026 Goals
 
 - [ ] Build and publish the AI Resume Analyzer
-- [ ] Complete and document DENZ AI Assistant
-- [ ] Organise and publish MomentShare professionally
-- [ ] Build multiple end-to-end machine-learning projects
-- [ ] Strengthen data structures, SQL, and Python fundamentals
+- [ ] Complete and professionally document DENZ
+- [ ] Publish MomentShare with clear documentation
+- [ ] Build end-to-end Machine Learning projects
+- [ ] Strengthen Python, SQL, and problem-solving skills
 - [ ] Learn Deep Learning and Generative AI
 - [ ] Contribute to meaningful open-source projects
 - [ ] Secure an AI/ML internship or entry-level opportunity
 
 ---
 
-## 💡 Development Philosophy
-
-<div align="center">
-
-### “Code with purpose. Build with curiosity. Improve with every project.”
-
-Every project is an opportunity to learn something new, solve a real problem, and become a better developer.
-
-</div>
-
----
-
-## 📬 Connect With Me
+## 📬 Let's Connect
 
 <div align="center">
 
@@ -224,7 +176,15 @@ Every project is an opportunity to learn something new, solve a real problem, an
 
 <br><br>
 
-**Open to AI/ML collaborations, internships, and interesting software projects.**
+**Open to AI/ML collaborations, internships, and meaningful software projects.**
+
+</div>
+
+---
+
+<div align="center">
+
+### “Build with curiosity. Learn through every project.”
 
 </div>
 
