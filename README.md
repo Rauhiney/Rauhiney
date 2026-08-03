@@ -1,35 +1,15 @@
 <div align="center">
 
-[11:54 pm, 29/07/2026] Rauhiney: <div align="center">
+# Hi 👋 I'm Rauhiney Kashyap
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:2563EB,100:7C3AED&text=Rauhiney%20Kashyap&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Building%20the%20Future%20with%20AI&descSize=20&descAlignY=60&animation=fadeIn"/>
+### Building Intelligent Software with AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Applications;Python+%7C+Backend+%7C+Generative+AI;Turning+Ideas+into+Real-World+Products" alt="Typing introduction"/>
+Artificial Intelligence • Machine Learning • Python • Backend Development
 
-<br>
-
-<a href="https://www.linkedin.com/in/rauhiney-kashyap-b448b3350">
-  <img src="https://img.shields.io/badge/LinkedIn-…
-[11:56 pm, 29/07/2026] Rauhiney: <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:2563EB,100:7C3AED&text=Rauhiney%20Kashyap&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Building%20the%20Future%20with%20AI&descSize=20&descAlignY=60&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Applications;Python+%7C+Backend+%7C+Generative+AI;Turning+Ideas+into+Real-World+Products" alt="Typing introduction"/>
-
-<br>
-
-<a href="https://www.linkedin.com/in/rauhiney-kashyap-b448b3350">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:kashyaprauhiney@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Rauhiney&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile views"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rauhiney%20Kashyap-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rauhiney-kashyap-b448b3350)
+[![Email](https://img.shields.io/badge/Email-kashyaprauhiney%40gmail.com-red?style=flat-square&logo=gmail)](mailto:kashyaprauhiney@gmail.com)
 
 </div>
-
 
 ---
 
