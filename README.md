@@ -23,18 +23,13 @@
 ## 👋 About Me
 
 I'm a **Fourth-Year Computer Science Engineering student** focused on Artificial Intelligence, Machine Learning, Python, and backend development.
-
 I enjoy turning ideas into practical software products through real-world projects. My goal is to build intelligent applications that solve meaningful problems and provide a useful experience.
-
 - 🎓 Currently studying in the seventh semester of B.Tech CSE
 - 🤖 Focused on Artificial Intelligence and Machine Learning
 - 🐍 Building applications and backend systems using Python
 - 🧠 Exploring Generative AI and local language models
 - 🚀 Learning by developing complete and practical projects
-
 ---
----
-
 ## 🧩 Core Skills
 
 <div align="center">
