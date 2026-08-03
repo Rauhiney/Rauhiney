@@ -1,21 +1,15 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:2563EB,100:7C3AED&text=Rauhiney%20Kashyap&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML&descSize=20&descAlignY=60&animation=fadeIn"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Artificial+Intelligence+%26+Machine+Learning;Python+%7C+Backend+%7C+Generative+AI;Building+Practical+AI+Applications;Turning+Ideas+into+Real-World+Products" alt="Typing introduction"/>
-
 <br>
-
 <a href="https://www.linkedin.com/in/rauhiney-kashyap-b448b3350">
   <img src="https://img.shields.io/badge/LinkedIn-Rauhiney%20Kashyap-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:kashyaprauhiney@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-kashyaprauhiney-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
 <img src="https://komarev.com/ghpvc/?username=Rauhiney&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile views"/>
-
 </div>
 
 ---
