@@ -106,6 +106,8 @@ AI-powered medical chatbot with symptom analysis, medication reminders, and pers
 **Status:** Functional Prototype
 
 
+---
+
 ## 🛠 Tech Stack
 
 **Languages**
