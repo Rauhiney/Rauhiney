@@ -107,7 +107,7 @@ AI-powered medical chatbot with symptom analysis, medication reminders, and pers
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 **Languages**
 
