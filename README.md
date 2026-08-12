@@ -97,18 +97,11 @@ A cloud-based photo and video sharing platform with QR-powered access, high-qual
 
 <td width="50%" valign="top">
 
-### 💬 AI Portfolio Assistant
+  Smart Medical Chatbot
 
-An intelligent conversational assistant that helps visitors explore portfolio projects, technical skills, and professional information interactively.
+AI-powered medical chatbot with symptom analysis, medication reminders, and personalized health tips.
 
-**Tech:** Python, Flask, Ollama, JavaScript
-
-**Status:** Functional Prototype
-
-</td>
-</tr>
-</table>
-
+Tech: Python • React • FastAPI • AI/ML
 ---
 
 ## 🛠 Tech Stack
