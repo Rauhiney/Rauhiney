@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,45:2563EB,100:7C3AED&text=Rauhiney%20Kashyap&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML&descSize=19&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,45:2563EB,100:7C3AED&text=Rauhiney%20Kashyap&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML&descSize=19&descAlignY=800&animation=fadeIn"/>
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=23&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&height=22&lines=Artificial+Intelligence+%26+Machine+Learning;Python+%7C+Backend+%7C+Generative+AI;Building+Practical+AI+Applications;Turning+Ideas+into+Real-World+Products" alt="Typing introduction"/>
 <br>
 <a href="https://www.linkedin.com/in/rauhiney-kashyap-b448b3350">
