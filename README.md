@@ -97,17 +97,21 @@ A cloud-based photo and video sharing platform with QR-powered access, high-qual
 
 <td width="50%" valign="top">
 
-## Smart Medical Chatbot
+### 🩺 Smart Medical Chatbot
 
 AI-powered medical chatbot with symptom analysis, medication reminders, and personalized health tips.
 
-**Tech:** Python • React • FastAPI • AI/ML
+**Tech:** Python • React • FastAPI • Gemini API
 
 **Status:** Functional Prototype
 
+</td>
+</tr>
+</table>
+
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 **Languages**
 
@@ -115,7 +119,7 @@ Python • SQL • JavaScript
 
 **AI & Machine Learning**
 
-Machine Learning • NumPy • Pandas • Scikit-learn • Ollama
+Machine Learning • NumPy • Pandas • Scikit-learn • Ollama • Gemini API
 
 **Backend**
 
