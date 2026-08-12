@@ -97,12 +97,14 @@ A cloud-based photo and video sharing platform with QR-powered access, high-qual
 
 <td width="50%" valign="top">
 
-  Smart Medical Chatbot
+## Smart Medical Chatbot
 
 AI-powered medical chatbot with symptom analysis, medication reminders, and personalized health tips.
 
-Tech: Python • React • FastAPI • AI/ML
----
+**Tech:** Python • React • FastAPI • AI/ML
+
+**Status:** Functional Prototype
+
 
 ## 🛠 Tech Stack
 
